@@ -1,0 +1,40 @@
+git init ја иницијализирам папката
+git remote add origin https://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@github.com/simeminoski/SI_2024_lab1_223155 се поврзувам со remote repo
+nano 223155.txt креирам фајл
+nano README.md креирам фајл
+git add . ги додавам сите креирани фајлови
+git commit -m "Initial commit" правам комит на додадените фајлови
+git add *.java ги додавам симнатите јава фајлови
+git commit -m "Add starter code" правам комит на фајловите
+git push -u origin master ја синхронизирам гранката master
+git checkout -b bug1 креирам гранка и се префрлам на таа гранка
+nano SILab1_1.java ја поправам грешката во фајлот
+git commit -a -m "Fix wrong condition in filterOddLengthStrings" правам адд па правам комит на промените
+git checkout master се префрлам на мастер гранката
+git checkout -b bug2 креирам нова гранка и се префрлам на истата
+nano SILab1_2.java ја поправам грешката 
+git commit -a -m "Fix wrong condition in makeBigStringFrom" правам адд па правам комит на промените
+git checkout bug1 се префрлам на bug1 
+nano SILab1Main.java го додавам повикот до методот
+git commit -a -m "Call method filterOddLengthStrings in main class" правам адд па правам комит на промените
+git checkout bug2 се префрлам на bug2
+nano SIlab1Main.java го додавам повикот до методот
+git commit -a -m "Call method makeBigStringFrom in main class" правам адд па правам комит на промените
+git push -u origin bug2 ја синхронизирам bug2
+git push -u origin bug1 ја синхронизирам bug1
+git push -u origin master  ја синхронизирам master
+git checkout master се префрлам на master
+git merge bug1 ја спојувам bug1 кон master,спојувањето се изврши по стратегија Fast-Forward
+git push -u origin bug2 ја синхронизирам bug2
+git push -u origin bug1 ја синхронизирам bug1
+git push -u origin master  ја синхронизирам master
+git checkout bug2 се префрлам на bug2
+git rebase master правам rebase na master,но се јави конфликт 
+nano SILab1Main.java го решавам конфликтот мануелно
+git add SILab1Main.java правам адд
+git rebase --continue го довршувам rebase , па се отвара едитор во кој што бара порака за новиот комит ја оставив таа што беше и rebase e сега успешен
+git checkout master се префрлам на master
+git merge bug2 ја додавам bug2 на master ,додавањето е успешно (Fast-Forward)
+git push -u origin bug2 ја синхронизирам bug2,ова не може па насилно направив push git push  origin bug2 --force
+git push -u origin bug1 ја синхронизирам bug1
+git push -u origin master  ја синхронизирам master

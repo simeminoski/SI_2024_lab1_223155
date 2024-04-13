@@ -1,0 +1,75 @@
+ON MASTER BRANCH:
+commit b68d383860d4e698819c6d29f52c1da5d46ce5c2 (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: simeminoski <simeon.minoski@students.finki.ukim.mk>
+Date:   Sat Apr 13 14:49:18 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit ad149890762c902d8c9291eafedc21baa497281d
+Author: simeminoski <simeon.minoski@students.finki.ukim.mk>
+Date:   Sat Apr 13 14:44:51 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit aa22193c4de1773bdb500d96783db2f512832a58 (origin/bug1, bug1)
+Author: simeminoski <simeon.minoski@students.finki.ukim.mk>
+Date:   Sat Apr 13 14:48:01 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit bede134fefa74bdc1356fd53044c2b9c6f0c320c
+Author: simeminoski <simeon.minoski@students.finki.ukim.mk>
+Date:   Sat Apr 13 14:46:36 2024 +0200
+
+
+
+
+ON BUG1 BRANCH:
+commit aa22193c4de1773bdb500d96783db2f512832a58 (HEAD -> bug1, origin/bug1)
+Author: simeminoski <simeon.minoski@students.finki.ukim.mk>
+Date:   Sat Apr 13 14:48:01 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit bede134fefa74bdc1356fd53044c2b9c6f0c320c
+Author: simeminoski <simeon.minoski@students.finki.ukim.mk>
+Date:   Sat Apr 13 14:46:36 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit f4d593af96d9d964fdeb7aeeb896dc0d3e9d414e
+Author: simeminoski <simeon.minoski@students.finki.ukim.mk>
+Date:   Sat Apr 13 14:43:25 2024 +0200
+
+    filterOddLengthStrings
+
+commit 74fa7f82c964f550f51391c6d79694a610eb139c
+Author: simeminoski <simeon.minoski@students.finki.ukim.mk>
+Date:   Sat Apr 13 14:40:03 2024 +0200
+
+    Add starter code
+
+
+
+ON BUG2 BRANCH:
+commit b68d383860d4e698819c6d29f52c1da5d46ce5c2 (HEAD -> bug2, origin/master, origin/bug2, master)
+Author: simeminoski <simeon.minoski@students.finki.ukim.mk>
+Date:   Sat Apr 13 14:49:18 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit ad149890762c902d8c9291eafedc21baa497281d
+Author: simeminoski <simeon.minoski@students.finki.ukim.mk>
+Date:   Sat Apr 13 14:44:51 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit aa22193c4de1773bdb500d96783db2f512832a58 (origin/bug1, bug1)
+Author: simeminoski <simeon.minoski@students.finki.ukim.mk>
+Date:   Sat Apr 13 14:48:01 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit bede134fefa74bdc1356fd53044c2b9c6f0c320c
+Author: simeminoski <simeon.minoski@students.finki.ukim.mk>
+Date:   Sat Apr 13 14:46:36 2024 +0200
