@@ -38,3 +38,6 @@ git merge bug2 ја додавам bug2 на master ,додавањето е у�
 git push -u origin bug2 ја синхронизирам bug2,ова не може па насилно направив push git push  origin bug2 --force
 git push -u origin bug1 ја синхронизирам bug1
 git push -u origin master  ја синхронизирам master
+git add . ги додавам txt фајловите
+git commit -m "Final commit" правам комит на истите
+git push -u origin master  ја синхронизирам master
