@@ -52,6 +52,13 @@ Date:   Sat Apr 13 14:40:03 2024 +0200
     Add starter code
 ------------------master-----------------------
 
+commit dbd98516f51470dc663532b0061fc4ba266a2414 (HEAD -> master)
+Author: simeminoski <simeon.minoski@students.finki.ukim.mk>
+Date:   Sun Apr 14 23:01:24 2024 +0200
+
+    Final commit
+
+
 commit 06b9e783f7e79cb457403a3f3023ea3ae53442ba (HEAD -> master, origin/master)
 Author: simeminoski <simeon.minoski@students.finki.ukim.mk>
 Date:   Sat Apr 13 15:01:25 2024 +0200
@@ -75,3 +82,27 @@ Author: simeminoski <simeon.minoski@students.finki.ukim.mk>
 Date:   Sat Apr 13 14:48:01 2024 +0200
 
     Call method filterOddLengthStrings in main class
+
+commit bede134fefa74bdc1356fd53044c2b9c6f0c320c
+Author: simeminoski <simeon.minoski@students.finki.ukim.mk>
+Date:   Sat Apr 13 14:46:36 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit f4d593af96d9d964fdeb7aeeb896dc0d3e9d414e
+Author: simeminoski <simeon.minoski@students.finki.ukim.mk>
+Date:   Sat Apr 13 14:43:25 2024 +0200
+
+    filterOddLengthStrings
+
+commit 74fa7f82c964f550f51391c6d79694a610eb139c
+Author: simeminoski <simeon.minoski@students.finki.ukim.mk>
+Date:   Sat Apr 13 14:40:03 2024 +0200
+
+    Add starter code
+
+commit ce89d31fd7043fb53f314e9fff8c2d6410228b01
+Author: simeminoski <simeon.minoski@students.finki.ukim.mk>
+Date:   Sat Apr 13 14:36:46 2024 +0200
+
+    Initial commit
