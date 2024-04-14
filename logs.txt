@@ -53,6 +53,18 @@ Date:   Sat Apr 13 14:40:03 2024 +0200
     Add starter code
 ------------------master-----------------------
 
+commit 6522245abf9d8bc57969d63dde361558974341f8 (HEAD -> master, origin/master)
+Author: simeminoski <simeon.minoski@students.finki.ukim.mk>
+Date:   Sun Apr 14 23:05:16 2024 +0200
+
+    Final commit
+
+commit cf572ac5d3dbd8992924a129bec5c6a20886f1cf
+Author: simeminoski <simeon.minoski@students.finki.ukim.mk>
+Date:   Sun Apr 14 23:02:18 2024 +0200
+
+    final commit
+
 commit dbd98516f51470dc663532b0061fc4ba266a2414 (HEAD -> master)
 Author: simeminoski <simeon.minoski@students.finki.ukim.mk>
 Date:   Sun Apr 14 23:01:24 2024 +0200
